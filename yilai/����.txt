@@ -1,0 +1,38 @@
+RecyclerView“¿¿µ
+compile 'com.android.support:recyclerview-v7:23.2.0'
+
+OkHttp3µƒ“¿¿µ
+compile 'com.squareup.okhttp3:okhttp:3.2.0'
+compile 'com.squareup.okio:okio:1.7.0'
+
+OkHttp Log¿πΩÿ
+compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'
+
+PicassoøÚº‹º”‘ÿÕº∆¨
+compile 'com.squareup.picasso:picasso:2.5.2'
+
+Butterknifeµƒ“¿¿µ
+compile 'com.jakewharton:butterknife:7.0.1'
+
+banner“¿¿µ
+compile 'com.youth.banner:banner:1.4.9'
+compile 'com.github.bumptech.glide:glide:3.5.2'
+
+frescoº”‘ÿÕº∆¨“¿¿µ
+compile 'com.facebook.fresco:fresco:0.9.0+'
+
+retrofitÕ¯¬Á«Î«Û“¿¿µ
+compile 'com.squareup.retrofit2:retrofit:2.0.1'
+
+BufferKnife“¿¿µ
+compile 'com.jakewharton:butterknife:8.1.0'
+
+Retrofit+RxJava“¿¿µ
+compile 'com.squareup.retrofit2:retrofit:2.0.1'
+compile 'com.squareup.retrofit2:converter-gson:2.0.1'
+compile 'com.squareup.retrofit2:adapter-rxjava:2.0.1'
+compile 'io.reactivex:rxandroid:1.1.0'
+compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'
+
+Eventbus“¿¿µ
+compile 'org.greenrobot:eventbus:3.0.0'
